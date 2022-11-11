@@ -14,3 +14,6 @@ yarn create strapi-app TodoBackend --ts  //select quickstart
                         √ Add Prettier for code formatting? ... No / Yes 
 
 npm install --save axios vue-axios 
+
+in TodoBackend/.env change Port to PORT=8082
+then console in cd TodoBackend; yarn run build
