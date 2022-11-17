@@ -2,16 +2,16 @@
 
 yarn create strapi-app TodoBackend --ts  //select quickstart
 
- npm init vue@latest  //Project name: ... TodoFrontend
-                        √ Package name: ... todofrontend
-                        √ Add TypeScript? ... No / Yes
-                        √ Add JSX Support? ... No / Yes
-                        √ Add Vue Router for Single Page Application development? ... No / Yes
-                        √ Add Pinia for state management? ... No / Yes
-                        √ Add Vitest for Unit Testing? ... No / Yes
+ npm init vue@latest  //Project name: ... VueForntend
+                        √ Package name: ... vuefrontend
+                        √ Add TypeScript? ...  Yes
+                        √ Add JSX Support? ... No 
+                        √ Add Vue Router for Single Page Application development? ... No 
+                        √ Add Pinia for state management? ... No 
+                        √ Add Vitest for Unit Testing? ... No 
                         √ Add an End-to-End Testing Solution? » No
-                        √ Add ESLint for code quality? ... No / Yes
-                        √ Add Prettier for code formatting? ... No / Yes 
+                        √ Add ESLint for code quality? ... No 
+                        √ Add Prettier for code formatting? ... No 
 
 npm install --save axios vue-axios 
 
